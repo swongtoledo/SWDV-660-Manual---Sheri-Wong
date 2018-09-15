@@ -8,5 +8,5 @@ class Rectangle():
         return self.length*self.width
     
 
-newRec = Rectangle(10,5)
-print (newRec.area())
+newRectangle = Rectangle(10,5)
+print (newRectangle.area())
